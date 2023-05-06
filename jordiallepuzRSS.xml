@@ -3,37 +3,36 @@
 <rss xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 version="2.0">
 <channel>
-<title>EL RECETARIO DE JORDI ALLEPUZ</title>
-<link>https://jordi-allepuz.github.io/Jordi_Allepuz_web2/</link>
-<description>Nuevas recetas en nuestro Recetario</description>
-<!-- La parte fija opcional -->
-<blogChannel:blogRoll></blogChannel:blogRoll>
-<blogChannel:blink></blogChannel:blink>
-<blogChannel:mySubscriptions></blogChannel:mySubscriptions>
-<language>es-ES</language>
-<copyright/>
-<managingEditor>postres_jordi@gmail.com</managingEditor>
-<webMaster>postres_jordi@gmail.com</webMaster>
-<pubDate>Mon, 08 May 23 09:00:00 GMT</pubDate>
-<image>
-<title>IES EL CAMINAS</title>
-<url>http://www.ieselcaminas.org/logotipo-caminas.png</url>
-<link>http://www.ieselcaminas.org</link>
-<width>80</width>
-<height>75</height>
-<description>Matriculas IES y Ciclos FProf</description>
-</image>
+    <title>EL RECETARIO DE JORDI ALLEPUZ</title>
+    <link>https://jordi-allepuz.github.io/Jordi_Allepuz_web2/</link>
+    <description>Nuevas recetas en nuestro Recetario</description>
+    <!-- La parte fija opcional -->
+    <blogChannel:blogRoll></blogChannel:blogRoll>
+    <blogChannel:blink></blogChannel:blink>
+    <blogChannel:mySubscriptions></blogChannel:mySubscriptions>
+    <language>es-ES</language>
+    <copyright/>
+    <managingEditor>postres_jordi@gmail.com</managingEditor>
+    <webMaster>postres_jordi@gmail.com</webMaster>
+    <pubDate>Mon, 08 May 23 09:00:00 GMT</pubDate>
+    <image>
+        <title>El RECETARIO DE JORDI ALLEPUZ</title>
+        <url>https://jordi-allepuz.github.io/Jordi_Allepuz_web2/Imagenes/tarta_queso3.jpg</url>
+        <link>https://jordi-allepuz.github.io/Jordi_Allepuz_web2/</link>
+        <width>80</width>
+        <height>75</height>
+        <description></description>
+    </image>
 <!-- La parte variable, la que corresponde a cada noticia o ítem -->
-<item>
-<title>Pasos a seguir para la tarta de queso</title>
-<link>https://jordi-allepuz.github.io/Jordi_Allepuz_web2/#instrucciones</link>
-<description>Aqui podras aprender a realizar una tarta de queso paso a paso...</description>
-<author>postres_jordi@gmail.com</author>
-</item>
-<item>
-<title></title>
-<link></link>
-<description></description>
-</item>
+    <item>
+        <title>Pasos a seguir para la tarta de queso</title>
+        <link>https://jordi-allepuz.github.io/Jordi_Allepuz_web2/#instrucciones</link>
+        <description>Aqui podras aprender a realizar una tarta de queso paso a paso...</description>
+        </item>
+    <item>
+        <title>Fotos del proceso</title>
+        <link>https://jordi-allepuz.github.io/Jordi_Allepuz_web2/web_secundaria.html</link>
+        <description>A continuacion vamos a ver algunas fotos del proceso...</description>
+    </item>
 </channel>
 </rss>
