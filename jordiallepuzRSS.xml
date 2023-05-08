@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- La parte fija del fichero xml correspondiente a un rss -->
-<rss xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
-version="2.0">
+<rss version="2.0">
 <channel>
     <title>EL RECETARIO DE JORDI ALLEPUZ</title>
     <link>https://jordi-allepuz.github.io/Jordi_Allepuz_web2/</link>
     <description>Nuevas recetas en nuestro Recetario</description>
     <!-- La parte fija opcional -->
-    <blogChannel:blogRoll></blogChannel:blogRoll>
-    <blogChannel:blink></blogChannel:blink>
-    <blogChannel:mySubscriptions></blogChannel:mySubscriptions>
     <language>es-ES</language>
     <copyright/>
     <managingEditor>postres_jordi@gmail.com</managingEditor>
@@ -28,7 +24,6 @@ version="2.0">
         <title>Pasos a seguir para la tarta de queso</title>
         <link>https://jordi-allepuz.github.io/Jordi_Allepuz_web2/#instrucciones</link>
         <description>Aqui podras aprender a realizar una tarta de queso paso a paso...</description>
-        </item>
     <item>
         <title>Fotos del proceso</title>
         <link>https://jordi-allepuz.github.io/Jordi_Allepuz_web2/web_secundaria.html</link>
