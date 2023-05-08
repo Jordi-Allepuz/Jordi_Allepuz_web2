@@ -28,7 +28,10 @@
     <item>
         <title>Fotos del proceso</title>
         <link>https://jordi-allepuz.github.io/Jordi_Allepuz_web2/web_secundaria.html</link>
-        <description>A continuacion vamos a ver algunas fotos del proceso...</description>
+        <description>
+        <p><img src="https://jordi-allepuz.github.io/Jordi_Allepuz_web2/Imagenes/tarta_queso5.jpg"></p>
+        A continuacion vamos a ver algunas fotos del proceso...
+        </description>
         <enclosure url="https://jordi-allepuz.github.io/Jordi_Allepuz_web2/Imagenes/tarta_queso5.jpg" length= "1000" type="image/jpg"/>
     </item>
     <item>
